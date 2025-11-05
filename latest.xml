@@ -1,0 +1,36 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Latest</title>
+    <item>
+      <title>0.20</title>
+      <pubDate>Tue, 05 Nov 2025 18:39:00 +0100</pubDate>
+      <sparkle:version>2000</sparkle:version>
+      <sparkle:shortVersionString>0.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+
+      <enclosure
+        url="https://github.com/asboy2035/Latest-26/releases/download/0.20/Latest020.zip"
+        type="application/octet-stream"
+        sparkle:edSignature="mhQrWYU+1jSJKDmudgkG0v9FUG9bXSRgBkY5DtdQw8z4bZFqVTTK+whYe3A8/Cwi3pCdSiiLi+J89MIhLYqOAg=="
+        sparkle:dsaSignature="MDwCHCDO5mzgaMKxcPZDimG+LCnLHb3wXqdl4trT4ZACHE023Nz/StmNSmvADPnSzGxeuBTD7LrEBrwMtHY="
+        length="8365225"
+      />
+
+      <description>
+        <![CDATA[
+          <h4>New Features</h4>
+          <ul>
+            <li>Menu bar icons added</li>
+            <li>Brand-new app icon</li>
+            <li>UI updated for macOS 26 aesthetics</li>
+          </ul>
+
+          <h4>Fixes</h4>
+          <ul>
+            <li>Icon improvements</li>
+          </ul>
+        ]]>
+      </description>
+    </item>
+  </channel>
+</rss>
