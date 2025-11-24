@@ -32,5 +32,36 @@
         ]]>
       </description>
     </item>
+
+    <item>
+      <title>0.21 - Update Fixes, </title>
+      <pubDate>Mon, 24 Nov 2025 16:50:00 +0100</pubDate>
+      <sparkle:version>2001</sparkle:version>
+      <sparkle:shortVersionString>0.21</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+
+      <enclosure
+        url="https://github.com/asboy2035/Latest-26/releases/download/0.21/Latest021.zip"
+        type="application/octet-stream"
+        sparkle:edSignature="9LRh/PTcsy5qh5BXmlBbMI/PVHK84N+Acj2gZ5yXVZrHBjN/u15v1sWMs0o4X8QnPL+bVxwz/rRePZRmyuR0BA=="
+        sparkle:dsaSignature="MDwCHAE+yKebWAVQ7njoM/4n/j25EEKe60sg8ns5XoMCHHtJ9Jgz6nZEmcg7l6jiC71SbM7Qd4f0umcR9+w="
+        length="8366253"
+      />
+
+      <description>
+        <![CDATA[
+          <h4>New Features</h4>
+          <ul>
+            <li>No New Features.</li>
+          </ul>
+
+          <h4>Fixes</h4>
+          <ul>
+            <li>Add icons to app list context menu</li>
+            <li>Fix bundle versioning for a fixed update experience</li>
+          </ul>
+        ]]>
+      </description>
+    </item>
   </channel>
 </rss>
